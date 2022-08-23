@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dab0a43971196954187542ce8791662a, type: 3}
   m_Name: int_musclub
   m_EditorClassIdentifier: 
-  _morning: {fileID: 0}
-  _day: {fileID: 0}
-  _evening: {fileID: 0}
-  _night: {fileID: 0}
-  _buttons: []
+  _morning: {fileID: 21300000, guid: 01c6e89a477ad95449b5dfbd833e2874, type: 3}
+  _day: {fileID: 21300000, guid: a401a6286232b2d4f8b06b5ba62f2889, type: 3}
+  _evening: {fileID: 21300000, guid: 01c6e89a477ad95449b5dfbd833e2874, type: 3}
+  _night: {fileID: 21300000, guid: 170dc44ffc8d15d42ac1beeb372c401d, type: 3}
+  _buttons:
+  - {fileID: 11400000, guid: 731355f332e56c54995c6334d5f3cf09, type: 2}

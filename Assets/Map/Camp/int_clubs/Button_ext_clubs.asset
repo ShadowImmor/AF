@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _ButtonSprite: {fileID: 567171383, guid: c741e30bc9e42f2479daa989e20ef31a, type: 3}
   _PositionX: 850
-  _PositionY: 451
+  _PositionY: -451
   _RotationZ: 180
   _Scale: 0.5
   _nextLocation: {fileID: 11400000, guid: 9f524a35892bf8d4ea53de794a4dd852, type: 2}

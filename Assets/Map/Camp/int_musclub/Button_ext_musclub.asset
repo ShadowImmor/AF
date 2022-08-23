@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Button_ext_musclub
   m_EditorClassIdentifier: 
   _ButtonSprite: {fileID: 567171383, guid: c741e30bc9e42f2479daa989e20ef31a, type: 3}
-  _PositionX: 0
-  _PositionY: 0
-  _RotationZ: 0
+  _PositionX: 850
+  _PositionY: -451
+  _RotationZ: 90
   _Scale: 0.5
-  _nextLocation: {fileID: 0}
+  _nextLocation: {fileID: 11400000, guid: 4e8dd3dc8e0546145b22a89b4a930201, type: 2}

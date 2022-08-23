@@ -16,4 +16,6 @@ MonoBehaviour:
   _day: {fileID: 21300000, guid: 660eb364a735b8c47985b9fce5cfef14, type: 3}
   _evening: {fileID: 21300000, guid: a503cf539e4e6a3448de2e19a4f5761d, type: 3}
   _night: {fileID: 21300000, guid: 8fef7cebe50d79141bae245207c7f27e, type: 3}
-  _buttons: []
+  _buttons:
+  - {fileID: 11400000, guid: 542066c049d1984419012606a0031932, type: 2}
+  - {fileID: 11400000, guid: 13099bf480fc97e49b18e3b51bd3b554, type: 2}
