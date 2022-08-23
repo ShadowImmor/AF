@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ce38b2c1d40bb64c9ef9a84f1c0205b, type: 3}
-  m_Name: Button_ext_club
+  m_Name: Button_ext_clubs
   m_EditorClassIdentifier: 
   _ButtonSprite: {fileID: 567171383, guid: c741e30bc9e42f2479daa989e20ef31a, type: 3}
-  _PositionX: -850
+  _PositionX: 0
   _PositionY: -451
-  _RotationZ: 0
+  _RotationZ: 90
   _Scale: 0.5
   _nextLocation: {fileID: 11400000, guid: 9f524a35892bf8d4ea53de794a4dd852, type: 2}

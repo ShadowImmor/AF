@@ -18,3 +18,4 @@ MonoBehaviour:
   _night: {fileID: 21300000, guid: a0c4d8c230b670949b710f8848c903db, type: 3}
   _buttons:
   - {fileID: 11400000, guid: 3f6f180f8d3845d4eae73bfb24380fdf, type: 2}
+  - {fileID: 11400000, guid: 8293bbaa0d632d747941490027d4412a, type: 2}

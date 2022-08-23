@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dab0a43971196954187542ce8791662a, type: 3}
   m_Name: ext_square
   m_EditorClassIdentifier: 
-  _morning: {fileID: 0}
-  _day: {fileID: 0}
-  _evening: {fileID: 0}
-  _night: {fileID: 0}
-  _buttons: []
+  _morning: {fileID: 21300000, guid: 7e28fcda8b8a3504bb6801faa03a018d, type: 3}
+  _day: {fileID: 21300000, guid: 4e513914c7443244a819d154c12bf99d, type: 3}
+  _evening: {fileID: 21300000, guid: 7e28fcda8b8a3504bb6801faa03a018d, type: 3}
+  _night: {fileID: 21300000, guid: 88a2a0c5cc012f542a01346702be7980, type: 3}
+  _buttons:
+  - {fileID: 11400000, guid: cc67ee73c1d71e24fbf7a2b5c28b2a0e, type: 2}
