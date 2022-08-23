@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dab0a43971196954187542ce8791662a, type: 3}
+  m_Name: ext_camp_entrance
+  m_EditorClassIdentifier: 
+  _morning: {fileID: 21300000, guid: edb9a060363a4494bb4ea5aa93a50f9b, type: 3}
+  _day: {fileID: 21300000, guid: 3d9bba4035eb398489c97967d6976b7c, type: 3}
+  _evening: {fileID: 21300000, guid: edb9a060363a4494bb4ea5aa93a50f9b, type: 3}
+  _night: {fileID: 21300000, guid: a0fd8fd0bae708642acc43ac907ecc51, type: 3}
+  _buttons:
+  - {fileID: 11400000, guid: f707dafdde2dce048b8de3d469f71740, type: 2}

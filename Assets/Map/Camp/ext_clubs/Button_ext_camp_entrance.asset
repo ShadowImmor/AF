@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ce38b2c1d40bb64c9ef9a84f1c0205b, type: 3}
+  m_Name: Button_ext_camp_entrance
+  m_EditorClassIdentifier: 
+  _ButtonSprite: {fileID: 567171383, guid: c741e30bc9e42f2479daa989e20ef31a, type: 3}
+  _PositionX: -870
+  _PositionY: -365
+  _RotationZ: 0
+  _Scale: 0.5
+  _nextLocation: {fileID: 11400000, guid: 20df11f47f8413d4ebeb1cad0d8bc9db, type: 2}

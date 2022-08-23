@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dab0a43971196954187542ce8791662a, type: 3}
+  m_Name: ext_clubs
+  m_EditorClassIdentifier: 
+  _morning: {fileID: 21300000, guid: e9672406e13bc714284e404b8b9394af, type: 3}
+  _day: {fileID: 21300000, guid: e3b2c893c920b9e4cacb639b9b4c2ded, type: 3}
+  _evening: {fileID: 21300000, guid: e9672406e13bc714284e404b8b9394af, type: 3}
+  _night: {fileID: 21300000, guid: a0c4d8c230b670949b710f8848c903db, type: 3}
+  _buttons:
+  - {fileID: 11400000, guid: 3f6f180f8d3845d4eae73bfb24380fdf, type: 2}
