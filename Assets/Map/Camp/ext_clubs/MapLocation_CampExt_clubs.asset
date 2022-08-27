@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 208587bc47930a1439fe69b3e4a2fa5f, type: 3}
+  m_Name: MapLocation_CampExt_clubs
+  m_EditorClassIdentifier: 
+  _typeLocation: 0
+  _buttons:
+  - {fileID: 11400000, guid: 3f6f180f8d3845d4eae73bfb24380fdf, type: 2}
+  - {fileID: 11400000, guid: 79f5481c754e7c24b912ade76b49de9e, type: 2}
+  - {fileID: 11400000, guid: 8293bbaa0d632d747941490027d4412a, type: 2}
+  - {fileID: 11400000, guid: 8246b0024d2bd91408665594de0d0693, type: 2}
+  _noCloudy:
+    _morning: {fileID: 21300000, guid: e9672406e13bc714284e404b8b9394af, type: 3}
+    _day: {fileID: 21300000, guid: e3b2c893c920b9e4cacb639b9b4c2ded, type: 3}
+    _evening: {fileID: 21300000, guid: e9672406e13bc714284e404b8b9394af, type: 3}
+    _night: {fileID: 21300000, guid: a0c4d8c230b670949b710f8848c903db, type: 3}
+  _cloudy:
+    _morning: {fileID: 0}
+    _day: {fileID: 0}
+    _evening: {fileID: 0}
+    _night: {fileID: 0}

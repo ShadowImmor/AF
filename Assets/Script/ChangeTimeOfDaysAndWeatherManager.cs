@@ -22,8 +22,9 @@ public enum Weather
 [Serializable]
 public class ChangeTimeOfDaysAndWeatherManager : MonoBehaviour
 {
-    public static Action<TimeOfDays> changedTimeOfDays;
+    public static Action<TimeOfDays, Weather> changedTimeOfDays;
     public static TimeOfDays _timeOfDays = TimeOfDays.morning;
+    public static Weather _weather = Weather.no_cloudy;
 
     public void Start()
     {
@@ -35,7 +36,7 @@ public class ChangeTimeOfDaysAndWeatherManager : MonoBehaviour
         while (true)
         {
             yield return new WaitForSeconds(5);
-            changedTimeOfDays?.Invoke(_timeOfDays);
+            changedTimeOfDays?.Invoke(_timeOfDays, _weather);
             switch (_timeOfDays)
             {
                 case TimeOfDays.morning:

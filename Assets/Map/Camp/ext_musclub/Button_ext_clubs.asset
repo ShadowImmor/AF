@@ -17,4 +17,4 @@ MonoBehaviour:
   _PositionY: -451
   _RotationZ: 90
   _Scale: 0.5
-  _nextLocation: {fileID: 11400000, guid: 9f524a35892bf8d4ea53de794a4dd852, type: 2}
+  _nextLocation: {fileID: 11400000, guid: 0716c96f01e46044a88db5c10d1696e5, type: 2}
