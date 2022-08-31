@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite_Atlas_mi_3_far
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0990e50e43edbba4e97a77359c2e53cf, type: 3}
+    - {fileID: 2800000, guid: 852b0022324fdbb43b9da6f261b37610, type: 3}
+    - {fileID: 2800000, guid: 6fa420bcf7bd13a4dba171051f00f835, type: 3}
+    - {fileID: 2800000, guid: a3cd3a37916a732489c4d7ec2788e25f, type: 3}
+    - {fileID: 2800000, guid: 59caaf0249a59b0479499e93494d1807, type: 3}
+    - {fileID: 2800000, guid: e2cf6894fff78464fba40a40d7ffcd3b, type: 3}
+    - {fileID: 2800000, guid: 96f1192245f83e04997351120737fcef, type: 3}
+    - {fileID: 2800000, guid: 936c7e0e55acc12418518b878a6df308, type: 3}
+    - {fileID: 2800000, guid: 30d1e8462b727e84e8afde8130037600, type: 3}
+    - {fileID: 2800000, guid: ae5301c42a166d24d8e259bb655303fd, type: 3}
+    - {fileID: 2800000, guid: a1aae429eb6bb4044b04a96da5ec248d, type: 3}
+    - {fileID: 2800000, guid: 1f6f32633bc1edd4c8a2733679ad40a8, type: 3}
+    - {fileID: 2800000, guid: aeba0d3d6be22f5479ca5626fc9793c4, type: 3}
+    - {fileID: 2800000, guid: 3b1629c3864466c4c8032442c87afa2d, type: 3}
+    - {fileID: 2800000, guid: 3a7242c4f9d5be34c89547caf68ae0e1, type: 3}
+    - {fileID: 2800000, guid: 960cef0ff5302654e848b4292eeb07e4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 59caaf0249a59b0479499e93494d1807, type: 3}
+  - {fileID: 21300000, guid: aeba0d3d6be22f5479ca5626fc9793c4, type: 3}
+  - {fileID: 21300000, guid: 6fa420bcf7bd13a4dba171051f00f835, type: 3}
+  - {fileID: 21300000, guid: 3a7242c4f9d5be34c89547caf68ae0e1, type: 3}
+  - {fileID: 21300000, guid: 0990e50e43edbba4e97a77359c2e53cf, type: 3}
+  - {fileID: 21300000, guid: 30d1e8462b727e84e8afde8130037600, type: 3}
+  - {fileID: 21300000, guid: 96f1192245f83e04997351120737fcef, type: 3}
+  - {fileID: 21300000, guid: a1aae429eb6bb4044b04a96da5ec248d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mi_3_swim
+  - mi_3_serious
+  - mi_3_pioneer
+  - mi_3_upset
+  - mi_3_body
+  - mi_3_normal
+  - mi_3_angry
+  - mi_3_rage
+  m_RenderDataMap: {}
+  m_Tag: Sprite_Atlas_mi_3_far
+  m_IsVariant: 0

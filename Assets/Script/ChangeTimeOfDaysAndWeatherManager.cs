@@ -28,20 +28,19 @@ public class ChangeTimeOfDaysAndWeatherManager : MonoBehaviour
 
     public void Start()
     {
-        StartCoroutine(enumerator());
+        //StartCoroutine(CoroutineBG());
     }
 
-    IEnumerator enumerator()
+    IEnumerator CoroutineBG()
     {
         while (true)
         {
-            yield return new WaitForSeconds(5);
+            yield return new WaitForSeconds(2);
             changedTimeOfDays?.Invoke(_timeOfDays, _weather);
             switch (_timeOfDays)
             {
                 case TimeOfDays.morning:
                     {
-
                         _timeOfDays = TimeOfDays.day;
                         break;
                     }
